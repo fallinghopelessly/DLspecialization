@@ -1,1 +1,1 @@
-My solution notebooks for Deep Learning Specialization course on Coursera
+My solution notebooks for Deep Learning Specialization courses on Coursera
